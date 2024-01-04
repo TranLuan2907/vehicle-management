@@ -90,6 +90,8 @@ A comprehensive vehicle management system designed to efficiently manage various
 
 This project serves as an assignment for the LAB211 - OOP with Java Lab course at FPT University. Students are tasked with applying the Java programming knowledge acquired in the pre-requisite course, PRO192 (Programming OOP with Java), to develop a practical, real-life application.
 
+**In this assignment, I built the project using the <code style='color: cyan'>Stream API</code> and <code style='color: cyan'>Lambda Expressions</code> instead of traditional foreach loops and sorting methods.**
+
 
 
 
